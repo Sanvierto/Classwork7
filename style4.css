@@ -1,0 +1,32 @@
+.visible {
+    visibility: visible;
+  }
+  
+  .hidden {
+    visibility: hidden;
+  }
+  
+  .op_1 {
+    opacity: 1;
+  }
+  
+  .op_0_5 {
+    opacity: 0.5;
+  }
+  
+  .op_0 {
+    opacity: 0;
+  }
+  
+  .none {
+    display: none;
+  }
+  
+  .inline {
+    display: inline;
+  }
+  
+  .block {
+    display: block;
+  }
+  
